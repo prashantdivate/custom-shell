@@ -7,10 +7,10 @@ Simple BASH shell created with Parser and Executor
 * [Setup](#setup)
 
 ## Introduction
-This is basic C program that aims to create BASH shell in linux.
-Parser and Executor is implemented
-a) Parser: Parses the command line to accept commands like 'ls -al'
-b) Executor: Executes the command and displays the output
+This is basic C program that aims to create BASH shell in linux.  
+Parser and Executor is implemented  
+a) Parser: Parses the command line to accept commands like 'ls -al'  
+b) Executor: Executes the command and displays the output  
 
 ### Technology
 Project is created with:
@@ -22,8 +22,8 @@ Project is created with:
 $ gcc shell.c -o shell
 $ ./shell
 ```
-###### Contribute
+##### Contribute
 
-Contributions are always welcome!
+Contributions are always welcome!  
 Please read the [contribution guidelines](contributing.md) first.
 
